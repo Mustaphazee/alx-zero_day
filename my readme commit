@@ -1,0 +1,29 @@
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;24r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[24;1H[1m[37m[41mE325: ATTENTION[m
+Found a swap file by the name "/alx-zero_day/.git/.COMMIT_EDITMSG.swp"
+[10Cowned by: root   dated: Tue Aug 30 08:41:13 2022
+[9Cfile name: /alx-zero_day/.git/COMMIT_EDITMSG
+[10Cmodified: YES
+[9Cuser name: root   host name: 2ece170b598b
+[8Cprocess ID: 3381 (STILL RUNNING)
+While opening file "/alx-zero_day/.git/COMMIT_EDITMSG"
+[13Cdated: Tue Aug 30 08:57:03 2022
+      NEWER than swap file!
+
+(1) Another program may be editing the same file.  If this is the case,
+    be careful not to end up with two different instances of the same
+    file when making changes.  Quit, or continue with caution.
+(2) An edit session for this file crashed.
+    If this is the case, use ":recover" or "vim -r /alx-zero_day/.git/COMMIT_ED
+[23;80HI[24;1HTMSG"
+    to recover the changes (see ":help recovery").
+    If you did this already, delete the swap file "/alx-zero_day/.git/.COMMIT_E
+[23;80HD[24;1HITMSG.swp"
+    to avoid this message.
+
+[32mSwap file "/alx-zero_day/.git/.COMMIT_EDITMSG.swp" already exists![m
+[32m-- More --[?25h SPACE/d/j: screen/page/line down, b/u/k: up, q: quit [m[24;1H[K[24;1H[32m-- More -- SPACE/d/j: screen/page/line down, b/u/k: up, q: quit [m[24;1H[K[24;1H[32m[O]pen Read-Only, (E)dit anyway, (R)ecover, (Q)uit, (A)bort: [m[24;1H[K[?25l[24;1H"/alx-zero_day/.git/COMMIT_EDITMSG" 15L, 400C[1;1H[K[2;1H[34m# Please enter the commit message for your changes. Lines starting[m[2;67H[K[3;1H[34m# with '#' will be ignored, and an empty message aborts the commit.
+#[m[4;10H[K[5;1H[34m# On branch [m[35mmaster[m[5;19H[K[6;1H[34m# Your branch is ahead of '[m[35morigin/master[m[34m' by 1 commit.
+#   (use "git push" to publish your local commits)
+#[m[8;2H[K[9;1H[34m# [m[35mChanges to be committed:[m[9;27H[K[10;1H[34m#       [m[32mmodified[m[34m: [m[31m  0x03-git/README.md[m
+[34m#
+# [m[35mUntracked files:[m[12;19H[K[13;1H[34m#       [m[31m"\nclear\nrm -r git commit > "[m[13;39H[K[14;1H[34m#       [m[31mmy readme commit[m[14;25H[K[15;1H[34m#[m[15;2H[K[16;1H[1m[34m~                                                                               [17;1H~                                                                               [18;1H~                                                                               [19;1H~                                                                               [20;1H~                                                                               [21;1H~                                                                               [22;1H~                                                                               [23;1H~                                                                               [m[24;63H1,0-1[9CAll[1;1H[?25h[?25l[24;53Hd[1;1H[?25h[?25l[24;54Hf[1;1H[?25h[?25l[24;55Hg[1;1H[24;53H   [1;1H[?25h[?25l[24;53Hh[1;1H[24;53H [1;1H[?25h[?25l[24;53Hb[1;1H[24;53H [1;1H[?25h[?25l[24;53Hc[1;1H[?25h[?25l[24;54Hd[1;1H[24;53H  [1;1H[?25h[?25l[24;53Hg[1;1H[?25h[?25l[24;53H [1;1H[24;53Hgt[1;1H[24;53H  [1;1H[?25h[?25l[24;53Hy[1;1H[?25h[?25l[24;54Hi[1;1H[?25h[?25l[24;55H<20>[1;1H[24;53H      [1;1H[?25h[?25l[24;53H^M[1;1H[24;53H  [2;1H[24;63H2,1  [2;1H[?25h[?25l[24;53H;[2;1H[24;53H [2;32H[24;65H32[2;32H[?25h[?25l[24;53H;[2;32H[24;53H [2;48H[24;65H48[2;48H[?25h[?25l[24;65H66[2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53H;[2;66H[24;53H [2;66H[?25h[?25l[24;53Hq[2;66H[?25h[?25l[24;54Hd[2;66H[24;1H[1mrecording @d[m[24;13H[K[24;63H2,66[10CAll[2;66H[?25h[?25l[24;53Hf[2;66H[?25h[?25l[24;54Hk[2;66H[24;53H  [2;66H[?25h[?25l[24;53H';[2;66H[24;1H[1m[37m[41mE78: Unknown mark[m[24;53H[K[2;66H[?2004l[?2004h[24;1H[1mrecording[m[1m[37m[41mo[m[1m @d[m[1m[37m[41m [m[24;13H[K[24;63H2,66[10CAll[2;66H[?25h[?25l[24;1H[1m[37m[41mE447: Can't find file "starting" in path[m[24;63H[K[?2004l[?2004h[24;1H[1mrecording[m[1m[37m[41m'[m[1m @d[m[24;13H[K[24;63H2,66[10CAll[2;66H[?25h[?25l[24;1H[1m--c INSERT --[m [1mrecording @d[m[24;63H[K[24;63H2,66[10CAll[2;66H[34mzxzcfg[m[24;65H72[2;72H[?25h[?25l[3;23r[3;1H[L[1;24r[2;58H[K[3;1Hstartinzxzcfgkj[24;63H[K[24;63H3,16[10CAll[3;16H[?25h[?25l;[24;66H7[3;17H[?25h[?25l[4;23r[4;1H[L[1;24r[3;17H'[24;63H[K[24;63H4,1[11CAll[4;1H[?25h[?25ll[24;65H2[4;2H[?25h[?25lk[24;65H3[4;3H[?25h[?25ll[24;65H4[4;4H[?25h[?25lv[24;65H5[4;5H[?25h[?25lm[24;65H7[4;7H[?25h
